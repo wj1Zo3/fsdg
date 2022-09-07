@@ -1,0 +1,1 @@
+vless://6d385a92-7212-aede-677f-84bd7d4b0da5@172.67.4.12:443?flow=&encryption=none&security=tls&sni=kuwozer.tk&type=ws&host=kuwozer.tk&path=/appws&headerType=none&alpn=#1208 
